@@ -1,6 +1,5 @@
 # SorabanAbakusu
-Olusturulma tarihi:‎5 ‎Mart ‎2018
-# Soroban Nedir?
-Soroban, Japonca’da abaküs demektir. Hesap makinesinin atası sayılan abaküsün Japonya’da kullanılan modeli olan soroban, bir hesaplama enstrümanıdır. Soroban’ın 1930'larda geliştirilen klasik modeli mental aritmetik çalışmaları için de kullanılır.
-Soroban’ın orta kirişinin üzerindeki tek boncuk 5 değerini (bu boncuklar, cennetsel boncuk olarak da adlandırılır) ve kirişin aşağısındaki dört boncuk ise 1 değerini temsil eder (toprak boncuklar). Bir soroban içinde çubukların sayısı her zaman tek sayı olur. Temel modellerin genellikle on üç çubuğu vardır
-
+Created On:‎5 ‎March ‎2018
+# What is Soroban?
+Soroban means abacus in Japanese. Soroban, the Japanese model of the abacus, considered the ancestor of the calculator, is a computing instrument. Soroban's classical model, developed in the 1930s, is also used for mental arithmetic studies.
+A single bead above the middle beam of Soroban represents the value 5 (these beads are also called the heavenly bead) and the four beads below the beam represent the value 1 (earth beads). The number of sticks in a soroban is always odd. Basic models usually have thirteen bars
