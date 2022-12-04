@@ -1,4 +1,4 @@
-# SorabanAbakusu
+# SorabanAbacus
 Created On:‎5 ‎March ‎2018
 # What is Soroban?
 Soroban means abacus in Japanese. Soroban, the Japanese model of the abacus, considered the ancestor of the calculator, is a computing instrument. Soroban's classical model, developed in the 1930s, is also used for mental arithmetic studies.
